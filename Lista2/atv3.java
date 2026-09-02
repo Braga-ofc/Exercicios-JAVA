@@ -51,6 +51,6 @@ public class atv3 {
         }
     System.out.println("\nSeu País é: " + nomepais);
     System.out.println("\nSeu Frete ficou: " + frete);
-    System.out.println("\nValor Total: " +67 (ValProd + frete));
+    System.out.println("\nValor Total: " + (ValProd + frete));
     }
 }
