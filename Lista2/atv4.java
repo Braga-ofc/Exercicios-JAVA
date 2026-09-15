@@ -18,7 +18,7 @@ public class atv4 {
         System.out.println("104 - Cheeseburguer (R$ 1,30)");
         System.out.println("105 - Refrigerante (R$ 1,00)");
 
-        System.out.print("\nEscolha o código do produto? ");
+        System.out.print("\nEscolha o código do produto: ");
         cod = Entrada.nextInt();
 
         switch (cod) {
